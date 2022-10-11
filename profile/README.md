@@ -1,0 +1,1 @@
+![valinatic banner](../assets/v-banner.jpg)
